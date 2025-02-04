@@ -1,0 +1,15 @@
+/Users/kushanthreddy/dev/c#/Todo List App/bin/Debug/net9.0/Todo List App
+/Users/kushanthreddy/dev/c#/Todo List App/bin/Debug/net9.0/Todo List App.deps.json
+/Users/kushanthreddy/dev/c#/Todo List App/bin/Debug/net9.0/Todo List App.runtimeconfig.json
+/Users/kushanthreddy/dev/c#/Todo List App/bin/Debug/net9.0/Todo List App.dll
+/Users/kushanthreddy/dev/c#/Todo List App/bin/Debug/net9.0/Todo List App.pdb
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.AssemblyInfoInputs.cache
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.AssemblyInfo.cs
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.csproj.CoreCompileInputs.cache
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.sourcelink.json
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.dll
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/refint/Todo List App.dll
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.pdb
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/Todo List App.genruntimeconfig.cache
+/Users/kushanthreddy/dev/c#/Todo List App/obj/Debug/net9.0/ref/Todo List App.dll
