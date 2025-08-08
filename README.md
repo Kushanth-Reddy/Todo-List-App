@@ -106,10 +106,4 @@ Completed Todos:
 - Input validation for safer number parsing
     
 - Support deleting tasks instead of just marking them complete
-    
 
----
-
-## 📜 License
-
-Licensed under the **MIT License** — free for personal or commercial use.
